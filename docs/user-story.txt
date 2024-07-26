@@ -1,0 +1,7 @@
+- Users should be able to record a set of exercises:
+
+	The user should insert a set of daily exercises.
+
+- Users should be able to insert their exercises:
+
+	The user should be able to type the description, quantity of sessions and repetitions of every session, weight, interval.
